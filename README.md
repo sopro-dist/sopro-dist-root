@@ -18,7 +18,7 @@ Since this repo is in the .gitmodules for Cambrian-src, you should probably do t
 
 If you already have a Cambrian-src folder, you can instead go there and run:
 
-    $ git submodule update --init
+    $ git submodule update --init --recursive
 
 
 at which point you will have a sopro-dist-root folder within your Cambrian source code, ready to build and include the assets.
