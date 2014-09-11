@@ -34,5 +34,5 @@ Clone this repo into ./sopro-dist-root:
 
 Download the releases that are included as submodules:
 
-    $ git submodule update --init
+    $ git submodule update --init --recursive
   
