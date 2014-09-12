@@ -1,3 +1,6 @@
 [submodule "html5-group-manager"]
 	path = html5-group-manager
 	url = https://github.com/sopro-dist/html5-group-manager.git
+[submodule "html5-pollmaster-wip"]
+	path = html5-pollmaster-wip
+	url = https://github.com/sopro-dist/html5-pollmaster-wip.git
