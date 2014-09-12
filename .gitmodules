@@ -1,0 +1,3 @@
+[submodule "html5-group-manager"]
+	path = html5-group-manager
+	url = https://github.com/sopro-dist/html5-group-manager.git
