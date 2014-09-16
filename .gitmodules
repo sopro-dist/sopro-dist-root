@@ -19,3 +19,6 @@
 [submodule "html5-scratch"]
 	path = html5-scratch
 	url = https://github.com/SocietyPro/html5-scratch.git
+[submodule "html5-static"]
+	path = html5-static
+	url = https://github.com/SocietyPro/html5-static.git
