@@ -7,3 +7,6 @@
 [submodule "japi"]
 	path = japi
 	url = https://github.com/SocietyPro/japi.git
+[submodule "html5-kingpin"]
+	path = html5-kingpin
+	url = https://github.com/SocietyPro/html5-kingpin.git
