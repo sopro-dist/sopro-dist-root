@@ -4,3 +4,6 @@
 [submodule "html5-pollmaster"]
 	path = html5-pollmaster
 	url = https://github.com/sopro-dist/html5-pollmaster.git
+[submodule "japi"]
+	path = japi
+	url = https://github.com/SocietyPro/japi.git
