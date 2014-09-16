@@ -13,3 +13,6 @@
 [submodule "html5-pomodoro"]
 	path = html5-pomodoro
 	url = https://github.com/SocietyPro/html5-pomodoro.git
+[submodule "html5-xik"]
+	path = html5-xik
+	url = https://github.com/sopro-dist/html5-xik.git
