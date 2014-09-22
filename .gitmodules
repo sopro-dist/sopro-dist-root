@@ -22,3 +22,6 @@
 [submodule "html5-static"]
 	path = html5-static
 	url = https://github.com/SocietyPro/html5-static.git
+[submodule "html5-config"]
+	path = html5-config
+	url = https://github.com/sopro-dist/html5-config.git
