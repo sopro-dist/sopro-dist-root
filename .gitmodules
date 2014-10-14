@@ -25,3 +25,6 @@
 [submodule "html5-config"]
 	path = html5-config
 	url = https://github.com/sopro-dist/html5-config.git
+[submodule "sopro-rolepage"]
+	path = sopro-rolepage
+	url = https://github.com/sopro-dist/sopro-rolepage
