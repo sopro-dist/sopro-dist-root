@@ -28,3 +28,9 @@
 [submodule "sopro-rolepage"]
 	path = sopro-rolepage
 	url = https://github.com/sopro-dist/sopro-rolepage
+[submodule "html5-channels"]
+	path = html5-channels
+	url = https://github.com/sopro-dist/html5-channels
+[submodule "html5-peers-manager"]
+	path = html5-peers-manager
+	url = https://github.com/sopro-dist/html5-peers-manager
